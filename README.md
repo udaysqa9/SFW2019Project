@@ -1,1 +1,3 @@
-# SFW2019Project
+# This project is a demo for practising git commands
+
+Uday
